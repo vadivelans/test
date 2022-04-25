@@ -1,0 +1,13 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "board.h": "c",
+        "spi.h": "c",
+        "uart_print.h": "c",
+        "usart.h": "c",
+        "mcu.h": "c",
+        "app_scheduler.h": "c",
+        "stdlib.h": "c"
+    },
+    "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools"
+}
